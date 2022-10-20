@@ -27,3 +27,6 @@ keys/
 .cache
 *.lprof
 *.prof
+
+# VS code
+*.code-workspace
